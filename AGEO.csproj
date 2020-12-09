@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\img\123.png" />
+    <None Include="wwwroot\img\cd-icon-close.svg" />
+    <None Include="wwwroot\img\cd-icon-email.svg" />
+    <None Include="wwwroot\img\cd-icon-menu.svg" />
+    <None Include="wwwroot\img\cd-icon-password.svg" />
+    <None Include="wwwroot\img\cd-icon-username.svg" />
+    <None Include="wwwroot\img\cd-logo.svg" />
+    <None Include="wwwroot\img\defaultTodo.png" />
+    <None Include="wwwroot\img\facebook.png" />
+    <None Include="wwwroot\img\foto_perfil.png" />
+    <None Include="wwwroot\img\github.png" />
+    <None Include="wwwroot\img\google.png" />
+    <None Include="wwwroot\img\loading.gif" />
+    <None Include="wwwroot\img\todoListFavicon.png" />
+    <None Include="wwwroot\img\todoListFavicon2222.png" />
+    <None Include="wwwroot\img\unknownUser.png" />
+  </ItemGroup>
+
+</Project>
